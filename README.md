@@ -1,8 +1,6 @@
-![Uploading image.png…]()
-<div align="center">
+![WhatsApp Image 2025-02-19 at 11 55 17_50e70355](https://github.com/user-attachments/assets/bb505118-e0eb-4833-a323-0fd448011f83)
 
 <a href="https://getunleash.io" title="Unleash - Empowering developers to release with confidence">
-    <img src="./.github/github_header_opaque_landscape.svg" alt="Visit the Unleash website">
 </a>
 
 <br/>
